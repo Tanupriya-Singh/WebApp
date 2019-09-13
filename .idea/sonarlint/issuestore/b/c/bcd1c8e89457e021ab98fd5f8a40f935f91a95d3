@@ -1,0 +1,12 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.nio.file.Files'.(‚ƒό8‚λέ¤Ò-
+[squid:UselessImportCheck"0Remove this unused import 'java.nio.file.Paths'.(αθ°―8‚λέ¤Ò-
+isquid:UselessImportCheck
+">Remove this unused import 'java.nio.charset.StandardCharsets'.(οήΫ8‚λέ¤Ò-
+Msquid:S2093"*Change this "try" to a try-with-resources.(΅»Άόωÿÿÿÿ8‚λέ¤Ò-
+ksquid:UselessImportCheck";Remove this unused import 'com.search.constants.Constants'.(ζ…‘”ωÿÿÿÿ8‚λέ¤Ò-
+Fsquid:S1148)"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8‚λέ¤Ò-
+dsquid:S2118 "AMake the "java.util.List" class "Serializable" or don't write it.(•»ΠΥώÿÿÿÿ8‚λέ¤Ò-
+Fsquid:S1148/"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8‚λέ¤Ò-
+Osquid:S1068"1Remove this unused "resultHistory" private field.(ƒΪΧ8‚λέ¤Ò-
+fsquid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(ν¨τ8αμ¤Ò-

@@ -1,0 +1,30 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8°æÂĞÒ-
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÿöƒö8°æÂĞÒ-
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¡äÎûÿÿÿÿ8°æÂĞÒ-
+isquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(±¯€¤8°æÂĞÒ-
+Gsquid:S1125-")Remove the literal "false" boolean value.(Ë£ÄÀ8°æÂĞÒ-
+isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(±¯€¤8°æÂĞÒ-
+Psquid:S1481W"-Remove this unused "filePath" local variable.(²ªûÿÿÿÿÿ8°æÂĞÒ-
+V
+squid:S106u"9Replace this use of System.out or System.err by a logger.(Ó£¹8°æÂĞÒ-
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(¹œúÂ8°æÂĞÒ-
+isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(î¯ÔÉ8°æÂĞÒ-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ñ·èï8°æÂĞÒ-
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(şØ¼Ç8°æÂĞÒ-
+nsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(°é€Çøÿÿÿÿ8°æÂĞÒ-
+U
+squid:S106#"9Replace this use of System.out or System.err by a logger.(æèÍ
+8°æÂĞÒ-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Êûïš8°æÂĞÒ-
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ÿöƒö8°æÂĞÒ-
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(“ä¯–ıÿÿÿÿ8°æÂĞÒ-
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8°æÂĞÒ-
+_squid:S1854W"<Remove this useless assignment to local variable "filePath".(²ªûÿÿÿÿÿ8°æÂĞÒ-
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(Â¾Ğ¯úÿÿÿÿ8°æÂĞÒ-

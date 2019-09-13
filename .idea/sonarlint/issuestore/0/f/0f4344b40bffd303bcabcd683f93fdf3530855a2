@@ -1,0 +1,8 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°¥Έϋ
+Qsquid:S1161/":Add the "@Override" annotation above this method signature(‚“¶ξ
+Bsquid:S1989+"&Add a "try/catch" block for "forward".(ΐα‘“ύÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(°¥Έϋ
+Esquid:S1125&")Remove the literal "false" boolean value.(ΤΨΐξÿÿÿÿÿ
+Bsquid:S1989+"&Add a "try/catch" block for "forward".(ΐα‘“ύÿÿÿÿ
+Dsquid:S1989""(Add a "try/catch" block for "getWriter".(οτ†ϊÿÿÿÿ

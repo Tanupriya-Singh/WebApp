@@ -1,0 +1,7 @@
+
+ssquid:S20959"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ðþÿÿÿÿ8…˜ÀÐÒ-
+qsquid:S20958"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(è®ˆôüÿÿÿÿ8…˜ÀÐÒ-
+ksquid:S2095."HUse try-with-resources or close this "FileWriter" in a "finally" clause.(–ß¸§úÿÿÿÿ8…˜ÀÐÒ-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8…˜ÀÐÒ-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8…˜ÀÐÒ-
+Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8…˜ÀÐÒ-

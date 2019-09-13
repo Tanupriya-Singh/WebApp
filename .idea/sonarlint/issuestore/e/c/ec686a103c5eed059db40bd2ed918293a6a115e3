@@ -1,0 +1,7 @@
+
+Hsquid:S1172"*Remove this unused method parameter "out".(ùüìş8¿êÓ¤Ò-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äûï¡Ò-
+esquid:S2095!"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ôã×°8è«’¢Ò-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ıß£¢Ò-
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Äûï¡Ò-
+ksquid:UselessImportCheck";Remove this unused import 'com.search.constants.Constants'.(æ…‘”ùÿÿÿÿ8Äûï¡Ò-

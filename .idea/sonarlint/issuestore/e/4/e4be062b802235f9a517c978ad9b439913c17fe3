@@ -1,0 +1,39 @@
+
+fsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚µŠ¯8  Ä¥Ò-
+osquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8  Ä¥Ò-
+Isquid:S1172‡"*Remove this unused method parameter "out".(ÚäÌ8  Ä¥Ò-
+Isquid:S00108¤")Either remove or fill this block of code.(â•¼İ8  Ä¥Ò-
+Vsquid:S1135†"2Complete the task associated to this TODO comment.(‹·•îÿÿÿÿÿ8  Ä¥Ò-
+?squid:S1643_"Use a StringBuilder instead.(¡¨ÏÒûÿÿÿÿ8ğåâ¥Ò-
+vsquid:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Á±ÕÙıÿÿÿÿ8  Ä¥Ò-
+Nsquid:S00108Î")Either remove or fill this block of code.(²¿ıÿÿÿÿ8  Ä¥Ò-
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(€Î¸Úÿÿÿÿÿ8  Ä¥Ò-
+W
+squid:S106õ"9Replace this use of System.out or System.err by a logger.(İ¯¾8  Ä¥Ò-
+hsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¯ÕÓ)8­ó´¥Ò-
+Gsquid:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8  Ä¥Ò-
+psquid:HiddenFieldCheckÚ"ARename "resultCounter" which hides the field declared at line 34.(°Ş¨üÿÿÿÿ8  Ä¥Ò-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(‘ÃªÑ8  Ä¥Ò-
+\
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(í×®Ñüÿÿÿÿ8  Ä¥Ò-
+osquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(ıß³Àûÿÿÿÿ8  Ä¥Ò-
+isquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(°á‘,8  Ä¥Ò-
+dsquid:S2095Ö"EUse try-with-resources or close this "Scanner" in a "finally" clause.(æœáø8  Ä¥Ò-
+Bsquid:S1148Ç"#Use a logger to log this exception.(òçøì8  Ä¥Ò-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8  Ä¥Ò-
+Msquid:S00108i")Either remove or fill this block of code.(²¿ıÿÿÿÿ8  Ä¥Ò-
+fsquid:S2095ë"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚µŠ¯8  Ä¥Ò-
+jsquid:S2095]"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8  Ä¥Ò-
+Vsquid:S1068&"3Remove this unused "registeredUsers" private field.(­©öáüÿÿÿÿ8¯ëö¢Ò-
+Bsquid:S1148÷"#Use a logger to log this exception.(¸ß¹8  Ä¥Ò-
+Vsquid:S1135†"2Complete the task associated to this TODO comment.(×ƒŒÂşÿÿÿÿ8  Ä¥Ò-
+Isquid:S00108ÿ")Either remove or fill this block of code.(â•¼İ8  Ä¥Ò-
+jsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(½‹Æº8  Ä¥Ò-
+Asquid:S1148z"#Use a logger to log this exception.(òçøì8  Ä¥Ò-
+Asquid:S1148c"#Use a logger to log this exception.(òçøì8  Ä¥Ò-
+jsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ØÅşÇ8  Ä¥Ò-
+Msquid:S00108N")Either remove or fill this block of code.(²¿ıÿÿÿÿ8„ìö¤Ò-
+Nsquid:S00108")Either remove or fill this block of code.(²¿ıÿÿÿÿ8  Ä¥Ò-
+Asquid:S1148H"#Use a logger to log this exception.(òçøì8„ìö¤Ò-
+Bsquid:S1148œ"#Use a logger to log this exception.(¸ß¹8  Ä¥Ò-
+nsquid:S2095½"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ä¥ú»8ªã€ĞÒ-

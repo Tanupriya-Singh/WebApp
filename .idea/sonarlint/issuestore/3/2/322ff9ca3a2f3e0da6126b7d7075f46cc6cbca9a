@@ -1,0 +1,52 @@
+
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ³ı­8ÏÀ¾ĞÒ-
+Hsquid:S1125™")Remove the literal "false" boolean value.(­Ÿº©8ÜªÎĞÒ-
+W
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Æ™‚“8ÜªÎĞÒ-
+W
+squid:S106„"9Replace this use of System.out or System.err by a logger.(Õï©·8ÏÀ¾ĞÒ-
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(±ÎÑ°ÿÿÿÿÿ8ÏÀ¾ĞÒ-
+Zsquid:S1854©"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8¥™ÎĞÒ-
+isquid:S2259Å"EA "NullPointerException" could be thrown; "scanner" is nullable here.(Û¡Äúÿÿÿÿ8ÜªÎĞÒ-
+W
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(ÃäÇÍ8ğ†ãĞÒ-
+W
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(Ó£¹8ÏÀ¾ĞÒ-
+psquid:HiddenFieldCheckˆ"ARename "resultCounter" which hides the field declared at line 26.(°Ş¨üÿÿÿÿ8ÏÀ¾ĞÒ-
+W
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(¿ñç¶8ÜªÎĞÒ-
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ÑÿæÓşÿÿÿÿ8ÏÀ¾ĞÒ-
+e
+squid:S899¾"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ÜªÎĞÒ-
+isquid:S2095¿"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ö¾éûÿÿÿÿ8ÜªÎĞÒ-
+\
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(¦•æ·øÿÿÿÿ8ÜªÎĞÒ-
+\
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ÆßÄ®ÿÿÿÿÿ8ÜªÎĞÒ-
+W
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ŸË–á8ÜªÎĞÒ-
+lsquid:S2095ğ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(†õ¼øÿÿÿÿ8ÜªÎĞÒ-
+dsquid:S2095Ä"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¹¨®–8ÜªÎĞÒ-
+psquid:S3776F"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¹ŠÓÉ8ÏÀ¾ĞÒ-
+V
+squid:S106n"9Replace this use of System.out or System.err by a logger.(İ¯¾8ÏÀ¾ĞÒ-
+Gsquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜªÎĞÒ-
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(´ƒÖØ8ÜªÎĞÒ-
+W
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ÿöƒö8ÜªÎĞÒ-
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(¶¸ ø8ÜªÎĞÒ-
+\
+squid:S106â"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8—ÕÚĞÒ-
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(í×®Ñüÿÿÿÿ8ÏÀ¾ĞÒ-
+jsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ûø»Ú8ÜªÎĞÒ-
+psquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÙãÀ/8ÏÀ¾ĞÒ-
+Gsquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜªÎĞÒ-
+csquid:S2095S"EUse try-with-resources or close this "Scanner" in a "finally" clause.(æœáø8ÏÀ¾ĞÒ-
+Gsquid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜªÎĞÒ-
+Fsquid:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÏÀ¾ĞÒ-
+Ksquid:S1481©"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8¥™ÎĞÒ-
